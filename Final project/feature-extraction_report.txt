@@ -1,0 +1,4105 @@
+
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+########################### RADIOMCS ################################
+------
+number of labels: 297
+------
+number of masks: 297
+------
+number of niis: 297
+------
+label list created!
+
+Attempting radiomics...
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0000_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0000-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0001_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0001-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0002_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0002-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0002_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0002-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0003_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0003-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0003_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0003-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0004_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0004-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0005_Finding0.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0005-Finding0-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0005_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0005-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0006_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0006-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0007_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0007-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0008_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0008-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0009_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0009-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0010_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0010-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0011_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0011-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0012_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0012-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0012_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0012-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0013_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0013-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0014_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0014-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0015_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0015-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0016_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0016-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0017_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0017-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0018_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0018-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0019_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0019-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0020_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0020-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0021_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0021-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0021_Finding4.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0021-Finding4-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0022_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0022-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0023_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0023-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0023_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0023-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0024_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0024-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0026_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0026-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0027_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0027-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0028_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0028-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0028_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0028-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0029_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0029-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0030_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0030-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0031_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0031-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0031_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0031-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0032_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0032-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0033_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0033-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0033_Finding3.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0033-Finding3-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0034_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0034-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0035_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0035-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0035_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0035-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0036_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0036-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0037_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0037-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0037_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0037-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0038_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0038-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0038_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0038-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0038_Finding3.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0038-Finding3-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 24) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0039_Finding1.nii.gz
+(384, 384, 24) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0039-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0040_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0040-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0040_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0040-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0040_Finding3.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0040-Finding3-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0041_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0041-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0042_Finding1.nii.gz
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0042-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0043_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0043-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0044_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0044-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0045_Finding1.nii.gz
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0045-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0046_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0046-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0046_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0046-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0047_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0047-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0048_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0048-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0049_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0049-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0050_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0050-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0051_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0051-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0053_Finding4.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0053-Finding4-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0054_Finding1.nii.gz
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0054-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0054_Finding2.nii.gz
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0054-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0055_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0055-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0057_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0057-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0057_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0057-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 27) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0058_Finding1.nii.gz
+(320, 320, 27) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0058-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0059_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0059-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0060_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0060-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0061_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0061-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0062_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0062-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0063_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0063-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0064_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0064-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0065_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0065-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0065_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0065-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0066_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0066-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0067_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0067-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0067_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0067-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0067_Finding3.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0067-Finding3-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0068_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0068-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0068_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0068-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0068_Finding3.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0068-Finding3-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0069_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0069-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0070_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0070-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0070_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0070-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0071_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0071-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0072_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0072-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0073_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0073-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0074_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0074-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(640, 640, 27) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0075_Finding1.nii.gz
+(640, 640, 27) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0075-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0076_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0076-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0077_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0077-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0078_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0078-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0079_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0079-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0081_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0081-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0082_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0082-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0083_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0083-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0083_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0083-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0084_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0084-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0084_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0084-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0085_Finding1.nii.gz
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0085-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0085_Finding2.nii.gz
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0085-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0085_Finding3.nii.gz
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0085-Finding3-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0085_Finding4.nii.gz
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0085-Finding4-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0086_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0086-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0086_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0086-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0087_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0087-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0087_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0087-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0088_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0088-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0088_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0088-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0089_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0089-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0090_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0090-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0091_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0091-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0092_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0092-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0093_Finding3.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0093-Finding3-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0094_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0094-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0095_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0095-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0095_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0095-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0096_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0096-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0097_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0097-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0098_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0098-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0099_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0099-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0099_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0099-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0100_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0100-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0100_Finding3.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0100-Finding3-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0101_Finding1.nii.gz
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0101-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0101_Finding2.nii.gz
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0101-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0102_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0102-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0103_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0103-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0103_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0103-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0104_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0104-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0104_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0104-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0105_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0105-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0106_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0106-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0106_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0106-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0107_Finding1.nii.gz
+(320, 320, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0107-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0108_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0108-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0108_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0108-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0109_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0109-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0109_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0109-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0110_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0110-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0110_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0110-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0111_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0111-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0112_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0112-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0113_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0113-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0114_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0114-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0114_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0114-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0115_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0115-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0116_Finding1.nii.gz
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0116-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0117_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0117-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0117_Finding3.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0117-Finding3-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0118_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0118-Finding1-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0118_Finding2.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0118-Finding2-t2_tse_tra_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0119_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0119-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0120_Finding1.nii.gz
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0120-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0120_Finding2.nii.gz
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0120-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0121_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0121-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0121_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0121-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0122_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0122-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0122_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0122-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0123_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0123-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0124_Finding1.nii.gz
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0124-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0125_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0125-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0126_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0126-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0126_Finding2.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0126-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0127_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0127-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0128_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0128-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0128_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0128-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0128_Finding3.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0128-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0129_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0129-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0130_Finding2.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0130-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0130_Finding3.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0130-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0131_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0131-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0132_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0132-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0133_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0133-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0134_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0134-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0134_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0134-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0135_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0135-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0135_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0135-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0136_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0136-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0136_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0136-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0139_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0139-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0139_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0139-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0139_Finding3.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0139-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0140_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0140-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0140_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0140-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(640, 640, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0141_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0141-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(640, 640, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0141_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0141-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(640, 640, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0141_Finding3.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0141-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0142_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0142-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0142_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0142-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0142_Finding3.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0142-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0143_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0143-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0144_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0144-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0144_Finding3.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0144-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0145_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0145-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0146_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0146-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0147_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0147-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0147_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0147-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0148_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0148-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0148_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0148-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0149_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0149-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0149_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0149-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0150_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0150-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0150_Finding3.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0150-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0151_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0151-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0151_Finding2.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0151-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0152_Finding1.nii.gz
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0152-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0153_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0153-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0153_Finding2.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0153-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0154_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0154-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0155_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0155-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0156_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0156-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0157_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0157-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0157_Finding3.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0157-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0158_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0158-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0159_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0159-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0159_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0159-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(640, 640, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0160_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0160-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0161_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0161-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0161_Finding2.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0161-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0161_Finding3.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0161-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0162_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0162-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0163_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0163-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0163_Finding3.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0163-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0164_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0164-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(640, 640, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0165_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0165-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(640, 640, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0166_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0166-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0167_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0167-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(640, 640, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0168_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0168-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0169_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0169-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0170_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0170-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0170_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0170-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0171_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0171-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0171_Finding2.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0171-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0171_Finding3.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0171-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0171_Finding4.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0172-Finding4-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0173_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0173-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0173_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0173-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0174_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0174-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0175_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0175-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0175_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0175-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0176_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0176-Finding1-t2_tse_tra0_ROI.nii_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0177_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0177-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0177_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0177-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0177_Finding4.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0177-Finding4-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0178_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0178-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0179_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0179-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0179_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0179-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0180_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0180-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(640, 640, 25) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0181_Finding1.nii.gz
+(384, 384, 25) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0181-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0182_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0182-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0183_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0183-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0184_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0184-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0184_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0184-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0185_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0185-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0186_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0186-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0186_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0186-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0187_Finding1.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0187-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0187_Finding2.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0187-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0187_Finding4.nii.gz
+(384, 384, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0187-Finding4-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0188_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0188-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0189_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0189-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0189_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0189-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0189_Finding3.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0189-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0190_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0190-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0190_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0190-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 18) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0191_Finding1.nii.gz
+(384, 384, 18) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0191-Finding1-t2_tse_tra_Grappa30_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0192_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0192-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0192_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0192-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0193_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0193-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0193_Finding2.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0193-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0193_Finding3.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0193-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0193_Finding4.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0193-Finding4-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0194_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0194-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0195_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0195-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0196_Finding1.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0196-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0196_Finding2.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0196-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0196_Finding3.nii.gz
+(384, 384, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0196-Finding3-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0197_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0197-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0198_Finding1.nii.gz
+(384, 384, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0198-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0199_Finding1.nii.gz
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0199-Finding1-t2_tse_tra0_ROI.nii_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0199_Finding2.nii.gz
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0199-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0200_Finding1.nii.gz
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0200-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0200_Finding2.nii.gz
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0200-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 23) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0201_Finding1.nii.gz
+(320, 320, 23) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0201-Finding1-t2_tse_cor0_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0202_Finding1.nii.gz
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0202-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0202_Finding2.nii.gz
+(320, 320, 21) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0202-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0203_Finding1.nii.gz
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0203-Finding1-t2_tse_tra0_ROI.nii.gz
+------
+Calculating features... 
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/nii/T2/ProstateX-0203_Finding2.nii.gz
+(320, 320, 19) >>/home/pablolaso/Documents/rd/data/Masks/T2/ProstateX-0203-Finding2-t2_tse_tra0_ROI.nii.gz
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+RF best params: {'max_depth': 7, 'min_samples_leaf': 1, 'n_estimators': 50}
+------
+RF_valid_indices: [0, 5, 11, 12, 13, 16]
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+RF best params: {'max_depth': 7, 'min_samples_leaf': 1, 'n_estimators': 50}
+------
+RF_valid_indices: [0, 5, 11, 12, 13, 15, 21]
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 3, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: []
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+list index out of range
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+"None of [Int64Index([15], dtype='int64')] are in the [columns]"
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'numpy.ndarray' object has no attribute 'columns'
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+X.shape[1] = 24 should be equal to 1, the number of features at training time
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), 15)' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+'(slice(None, None, None), [15])' is an invalid key
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+The best RF SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RF results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+This SVC instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+This SVC instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+This SVC instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+The best RF SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RF results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+This SVC instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+RFECV accuracy: 0.7111111111111111
+------
+The best RF SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RF results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+name 'DT_valid_indices' is not defined
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+RFECV accuracy: 0.7111111111111111
+------
+The best RF SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RF results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+The best DT SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+DT results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+LR validation skipped
+------
+PCA computed explaining a variance ratio = [0.96740099]
+------
+The best PCA-SVM parameters are {'C': 1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.78
+------
+PCA_results: >mean: 0.7681765389082461, >std: 0.010273330725898271
+------
+#####################################################################
+------
+#####################################################################
+------
+all run sucessfully!
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 3, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: []
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+RFECV accuracy: 0.7111111111111111
+------
+The best RF SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RF results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+Found array with 0 feature(s) (shape=(207, 0)) while a minimum of 1 is required.
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+RFECV accuracy: 0.7111111111111111
+------
+The best RF SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RF results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+The best DT SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+DT results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+LR validation skipped
+------
+PCA computed explaining a variance ratio = [0.96740099]
+------
+The best PCA-SVM parameters are {'C': 1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.78
+------
+PCA_results: >mean: 0.7681765389082461, >std: 0.010273330725898271
+------
+#####################################################################
+------
+#####################################################################
+------
+all run sucessfully!
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+RFECV accuracy: 0.7111111111111111
+------
+The best RF SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RF results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+accuracy: 0.7111111111111111
+------
+The best DT SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+DT results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+DT accuracy: 0.7111111111111111
+------
+LR validation skipped
+------
+PCA computed explaining a variance ratio = [0.96740099]
+------
+The best PCA-SVM parameters are {'C': 1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.78
+------
+PCA_results: >mean: 0.7681765389082461, >std: 0.010273330725898271
+------
+#####################################################################
+------
+#####################################################################
+------
+all run sucessfully!
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+RFECV accuracy: 0.7111111111111111
+------
+The best RF SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RF results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+accuracy: 0.7111111111111111
+------
+The best DT SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+DT results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+DT accuracy: 0.7111111111111111
+------
+LR validation skipped
+------
+PCA computed explaining a variance ratio = [0.95843501]
+------
+The best PCA-SVM parameters are {'C': 1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.78
+------
+PCA_results: >mean: 0.7681765389082461, >std: 0.010273330725898271
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+name 'accuracy_score' is not defined
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+RFECV accuracy: 0.7111111111111111
+------
+The best RF SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RF results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+accuracy: 0.7111111111111111
+------
+The best DT SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+DT results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+DT accuracy: 0.7111111111111111
+------
+LR validation skipped
+------
+PCA computed explaining a variance ratio = [0.95843501]
+------
+The best PCA-SVM parameters are {'C': 1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.78
+------
+PCA_results: >mean: 0.7681765389082461, >std: 0.010273330725898271
+------
+#####################################################################
+------
+#####################################################################
+------
+FATAL ERROR OCURRED while running the HRLscript!!!!!!
+name 'accuracy_score' is not defined
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+libraries imported
+------
+#####################################################################
+------
+#####################################################################
+------
+297 findings!
+------
+#####################################################################
+------
+#####################################################################
+------
+#labels: (297,)
+------
+#training data: (297, 24)
+------
+dimensions fit
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+The best all_features_in_rbf-SVM parameters are {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'} with a score of 0.77
+------
+all_features_in-SVM classifier(s) trained!
+------
+#####################################################################
+------
+#####################################################################
+------
+Atempting FEATURE SELECTION...
+------
+#####################################################################
+------
+#####################################################################
+------
+RFECV_valid_indices: [15]
+------
+#####################################################################
+------
+########################### RF ######################################
+------
+#####################################################################
+------
+########################### DT ######################################
+------
+DT best params: {'max_depth': 1, 'min_samples_leaf': 1, 'min_samples_split': 2}
+------
+DT_valid_indices: [12]
+------
+#####################################################################
+------
+########################### LR ######################################
+------
+LR best params: {'C': 0.001}
+------
+LR_valid_indices: []
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
+------
+Attempting Validation...
+------
+#####################################################################
+------
+The best RFECV SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RFECV results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+RFECV accuracy: 0.7111111111111111
+------
+The best RF SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+RF results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+accuracy: 0.7111111111111111
+------
+The best DT SVM parameters are {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.76
+------
+DT results: >mean: 0.7584204413472705, >std: 0.0028449358220478025
+------
+DT accuracy: 0.7111111111111111
+------
+LR validation skipped
+------
+PCA computed explaining a variance ratio = [0.95843501]
+------
+The best PCA-SVM parameters are {'C': 1, 'gamma': 1, 'kernel': 'rbf'} with a score of 0.78
+------
+PCA_results: >mean: 0.7681765389082461, >std: 0.010273330725898271
+------
+accuracy: 0.7222222222222222
+------
+#####################################################################
+------
+#####################################################################
+------
+all run sucessfully!
+------
+#####################################################################
+------
+#####################################################################
+------
+#####################################################################
